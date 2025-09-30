@@ -1,0 +1,2 @@
+# Este proyecto no necesita librerías externas.
+# Aquí podrías agregar dependencias en el futuro.
